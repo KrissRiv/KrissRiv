@@ -3,8 +3,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrissRiv&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrissRiv&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrissRiv)](https://github.com/anuraghazra/github-readme-stats)
-
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="HTML5" />
+</div>
 <!--
 **KrissRiv/KrissRiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
